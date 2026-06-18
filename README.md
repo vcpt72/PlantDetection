@@ -19,3 +19,10 @@ An automated pipeline for detecting, segmenting, and measuring plant root system
 ## 📊 YOLO Architecture Comparison & Insights
 
 During benchmarking, older models (**YOLOv8** and **YOLOv11 (K-Fold)**) outperformed the ultra-modern **YOLOv26** in terms of precision on this dataset.
+
+
+
+
+![Dataset Sample](https://github.com/vcpt72/PlantDetection/blob/main/img_001.png?raw=true)
+
+![Measurement and Detection Output](https://github.com/vcpt72/PlantDetection/blob/main/measurement.jpg?raw=true)
