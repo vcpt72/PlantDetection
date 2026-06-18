@@ -1,6 +1,6 @@
 # PlantDetection
 
-An automated pipeline for detecting, segmenting, and measuring plant root systems from digital images (e.g., agar plate cultures). This project leverages deep learning models (**YOLOv8**, **YOLOv11**, and **YOLOv26**) for object detection, followed by traditional computer vision techniques (**OpenCV**) and graph theory (**Breadth-First Search**) to extract morphological traits like root length.
+An automated pipeline for detecting, segmenting, and measuring plant root systems from digital images (e.g., agar plate cultures). This project leverages deep learning models (**YOLOv8**, **YOLOv11**, and **YOLOv26**) for object detection and SAM2 for segmentation, followed by traditional computer vision techniques (**OpenCV**) and graph theory (**Breadth-First Search**) to extract morphological traits like root length.
 
 ---
 ## Pipeline
